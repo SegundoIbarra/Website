@@ -111,6 +111,7 @@
 .site-main .brand-area .first-row .col-lg-4{
     display: flex;
     justify-content: center;
+    align-item:center;
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
